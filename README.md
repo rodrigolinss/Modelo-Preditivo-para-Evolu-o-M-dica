@@ -32,10 +32,3 @@ Este projeto visa abordar este problema por meio das seguintes etapas:
 - **Modelos Preditivos**: Algoritmos para prever tendências e comportamentos futuros com base nos dados analisados.
 - **Visualização**: Relatórios e gráficos para apresentar insights de maneira compreensível.
 
-## Instalação
-
-Para configurar o ambiente e iniciar o projeto, siga estes passos:
-
-1. **Clone o Repositório**
-   ```bash
-   git clone https://github.com/seuusuario/analise-inteligente-evolucao-medica.git
