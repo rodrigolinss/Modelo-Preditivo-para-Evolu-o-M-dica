@@ -1,6 +1,6 @@
-# Análise Inteligente da Evolução Médica
+# Modelo Preditivo para Evolução Médica
 
-**Análise Inteligente da Evolução Médica** é um projeto voltado para processar e analisar informações de evolução médica fornecidas de forma livre pelos profissionais de saúde. O objetivo é desenvolver um modelo que identifique padrões e gere insights úteis a partir de dados textuais não estruturados, ajudando na tomada de decisões e na previsão de tendências com base no histórico dos pacientes.
+**O Modelo Preditivo para Evolução Médica** é um projeto voltado para processar e analisar informações de evolução médica fornecidas de forma livre pelos profissionais de saúde. O objetivo é desenvolver um modelo que identifique padrões e gere insights úteis a partir de dados textuais não estruturados, ajudando na tomada de decisões e na previsão de tendências com base no histórico dos pacientes.
 
 ## Problema
 
